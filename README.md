@@ -8,13 +8,15 @@ Vinyl skin for Pinebook Pro laptop lid, intended for use with something like a C
 
 2. Add the uploaded `skin.svg` as an image in a new project.
 
-3. Ensure the image size is set to 8 inches by 12 inches.
+3. Ensure the image size is set to 8.572 inches by 12.892 inches (217.729 mm by 327.457 mm).
 
 4. Cut it!
 
-5. When applying the vinyl, start in the top-left corner, ensure the left side is lined up, and line up with the bottom-left corner. 
+5. When applying the vinyl, start in the top-left corner, ensure the left side is lined up, and line up with the bottom-left corner.
 
-  The vinyl should be just flush with the edge of the lid with no wrap-around, but no aluminum exposed on the surface.
+   The vinyl should be just flush with the edge of the lid with no wrap-around, but no aluminum exposed on the surface.
+
+   Use a plastic scraper to slowly push the vinyl onto the aluminum, avoiding bubbles and creases. Work slowly!
 
 ## Acknowledgements
 
